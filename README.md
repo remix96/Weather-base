@@ -1,5 +1,3 @@
-Remo Valerio Labbia 1000012407
-
 Sono presenti le cartelle:
 - Client: contiene il codice sorgente relativo al client sviluppato in C# su Visual Studio 2019.
 - Server: al cui interno ci sono tutti i file Python relativi al server e il file ".env" (ha informazioni su porta, db e api key).
